@@ -74,13 +74,13 @@ export default function Footer() {
     <p>+91 12345467890</p>
     {/* social links */}
 <div className='flex items-center gap-3 mt-6 '>
-<a href='#'>
+<a href='/'>
 <FaInstagram className='text-3xl hover:text-amber-700 duration-300' />
                                     </a>
-                                    <a href="#">
+                                    <a href="/">
                                         <FaFacebook className='text-3xl hover:text-amber-700 duration-300' />
                                     </a>
-                                    <a href="#">
+                                    <a href="/">
                                         <FaLinkedin className='text-3xl hover:text-amber-700 duration-300' />
                                     </a>
 
